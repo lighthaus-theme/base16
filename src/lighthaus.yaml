@@ -1,0 +1,18 @@
+scheme: "Lighthaus"
+author: "Lighthaus Theme (http://github.com/lighthaus-theme)"
+base00: "#18191E" #background
+base01: "#FC2929"
+base02: "#44B273"
+base03: "#E25600"
+base04: "#1D918B"
+base05: "#D16BB7" 
+base06: "#00BFA4"
+base07: "#CCCCCC"
+base08: "#FFEE79" #foreground
+base09: "#FF5050"
+base0A: "#50C16E"
+base0B: "#ED722E"
+base0C: "#47A8A1"
+base0D: "#D68EB2"
+base0E: "#5AD1AA"
+base0F: "#FFFADE"
